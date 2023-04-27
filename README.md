@@ -1,5 +1,5 @@
-Hello! I'm Artem Nebykov, an aspiring python developer looking to start my career in this field. 
-In this repository, I have provided my resume and samples of my projects so that you can better understand my experience and skills.
+Hello! I'm Artem Nebykov, and i am a python developer. 
+In this repository you will find my CV as well as sample projects I have developed so you can appreciate my experience and skills in this area.
 
 My CV includes the following sections:
 
