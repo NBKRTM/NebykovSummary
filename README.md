@@ -4,7 +4,7 @@ In this repository you will find my CV as well as sample projects I have develop
 My CV includes the following sections:
 
 - General information about my work experience and education
-- My skills and competencies in the field of web development
+- My skills and competencies in the field of development
 - Description of my projects and completed tasks
 - Links to my social profiles and contact information
 
