@@ -1,5 +1,5 @@
 Hello! I'm Artem Nebykov, and i am a python developer. 
-In this repository you will find my CV as well as sample projects I have developed so you can appreciate my experience and skills in this area.
+In this repository you will find my CV so you can appreciate my experience and skills in this area.
 
 My CV includes the following sections:
 
